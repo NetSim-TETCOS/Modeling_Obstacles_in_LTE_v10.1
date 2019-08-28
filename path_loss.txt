@@ -1,0 +1,6 @@
+#UE_count = 5
+$UE_ID = 13 Pathloss_exponent = 4.7 Attenuation = 2 Tx_gain = 2 Rx_gain = 2
+$UE_ID = 5 Pathloss_exponent = 4.7 Attenuation = 2 Tx_gain = 2 Rx_gain = 2
+$UE_ID = 6 Pathloss_exponent = 4.5 Attenuation = 2 Tx_gain = 2 Rx_gain = 2
+$UE_ID = 8 Pathloss_exponent = 4.5 Attenuation = 2 Tx_gain = 2 Rx_gain = 2
+$UE_ID = 9 Pathloss_exponent = 4.7 Attenuation = 2 Tx_gain = 2 Rx_gain = 2
